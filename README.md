@@ -1,5 +1,5 @@
 # NLP-AI-in-Banking-and-Finance-Industry
-Data and R scripts for an NLP-based analysis of the AI landscape in Islamic banking and finance
+Data and R scripts for an NLP-based analysis of the AI landscape in banking and finance
 
 # NLP-AI-in-Banking-and-Finance-Industry
 This repository contains the dataset and R analysis script used for an NLP-based study of artificial intelligence in the banking and finance industry.
